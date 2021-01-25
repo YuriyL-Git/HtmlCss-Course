@@ -1,6 +1,18 @@
-.first-title{
-    color: crimson;
-}
+
+
+
 #youtube-link{
     color: black;
+}
+
+.random h1 {
+    color:rgb(199, 184, 166);
+}
+
+.my-list + ul{
+    list-style: none;
+}
+
+ul > li {
+    color: darkorange;
 }
