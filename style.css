@@ -1,8 +1,8 @@
-header {
+header, #footer {
     background-color: purple;
 }
 
-.header-text {
+.header-text, #footer {
     color: white;
     text-align: center;
 }
@@ -10,3 +10,16 @@ header {
 .article-title {
     font-family: Arial;
 }
+
+.article-date {
+    font-style: italic;
+}
+ 
+.article-autor, .article-date {
+   color: gray; 
+}
+
+
+
+
+
