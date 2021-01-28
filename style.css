@@ -1,9 +1,12 @@
-div {
-    color: blue;
-    border: 1px solid black;
+header {
+    background-color: purple;
 }
-p {
-    font-size: 30px;
-    color: inherit;
-    border: initial;
+
+.header-text {
+    color: white;
+    text-align: center;
+}
+
+.article-title {
+    font-family: Arial;
 }
