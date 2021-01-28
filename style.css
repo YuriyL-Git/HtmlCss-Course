@@ -1,18 +1,9 @@
-
-
-
-#youtube-link{
-    color: black;
+div {
+    color: blue;
+    border: 1px solid black;
 }
-
-.random h1 {
-    color:rgb(199, 184, 166);
-}
-
-.my-list + ul{
-    list-style: none;
-}
-
-ul > li {
-    color: darkorange;
+p {
+    font-size: 30px;
+    color: inherit;
+    border: initial;
 }
