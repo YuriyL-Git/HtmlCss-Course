@@ -1,25 +1,21 @@
-header, #footer {
-    background-color: purple;
-}
-
-.header-text, #footer {
-    color: white;
+.user-name {
     text-align: center;
+    font-size: 50px;
 }
 
-.article-title {
-    font-family: Arial;
+.bands {
+    font-size: 30px;
 }
 
-.article-date {
-    font-style: italic;
-}
- 
-.article-autor, .article-date {
-   color: gray; 
+.not-included {
+    text-decoration: line-through;
 }
 
+.section {
+    background-color: green;
+    color: white;
+}
 
-
-
-
+.details-list {
+    font-size: 25px;
+}
