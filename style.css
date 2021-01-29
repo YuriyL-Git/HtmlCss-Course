@@ -1,19 +1,13 @@
-.submit:hover {
-    background-color: red;
+.div-1 {
+background-color: purple;
+width: 100px;
+height: 100px;
+padding: 10px;
+margin: ;
+border: 20px solid black;
 }
-
-.submit:focus {
-    background-color: blue;
-}
-
-.name:hover {
-    background-color: green;
-}
-
-.email:disabled{
-    background-color: purple;
-}
-
-.name:required{
-    background-color: blue;
+.div-2{
+    background-color: orange;
+    width: 100px;
+height: 100px;
 }
