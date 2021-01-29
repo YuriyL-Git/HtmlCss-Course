@@ -1,23 +1,19 @@
-.header-text {
-    text-align: center;
+.submit:hover {
+    background-color: red;
 }
 
-.green-section {
-background-color: green;
-color: white;
+.submit:focus {
+    background-color: blue;
 }
 
-.section-title{
-    font-family: Arial, Helvetica, sans-serif;
+.name:hover {
+    background-color: green;
 }
 
-.cyan {
-   color: cyan;
+.email:disabled{
+    background-color: purple;
 }
 
-.cross-off {
-    text-decoration-line: line-through;
-}
-a{
-    text-decoration: none;
+.name:required{
+    background-color: blue;
 }
